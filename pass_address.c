@@ -1,4 +1,6 @@
 /* pass_address.c */
+/* program investigates the use of pointers to perform the "pass by reference"
+   operation in order to exchange the contents of two memory locations */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
